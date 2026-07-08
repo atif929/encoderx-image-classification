@@ -2,7 +2,7 @@
 
 ## Image Classification using Convolutional Neural Network (CNN)
 
-**Intern:** Atif Siyal
+**Intern:** Atif Rameez
 
 **Internship:** EncoderX AI/ML Internship
 
@@ -179,7 +179,7 @@ encoderx-image-classification/
 
 # Author
 
-**Atif Siyal**
+**Atif Rameez**
 
 EncoderX AI/ML Internship
 

@@ -101,6 +101,6 @@ image_classification.ipynb
 
 ## Author
 
-Atif Siyal
+Atif Rameez
 
 EncoderX AI/ML Internship
